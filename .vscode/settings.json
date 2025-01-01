@@ -15,4 +15,8 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
+   "terminal.integrated.sendKeybindingsToShell": true,
+   "terminal.integrated.shellIntegration.enabled": false,
+   "terminal.integrated.shellIntegration.showCommandGuide": false,
+   "python.terminal.shellIntegration.enabled": true,
 }
